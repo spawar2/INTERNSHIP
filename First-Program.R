@@ -17,6 +17,52 @@ data <- ReadAffy()
 # Visualize read dataset
 boxplot(data)
 
+# Pre-processing dataset: Normalization of data using RMA
+data_normalized <- rma(data)
+
+# Creating a table with samples and expression values
+expression_values <- exprs(data_normalized)
+
+# Create a box plot to check normalized expression values
+boxplot(expression_values)
+
+# Analysis for gene expression changes
+
+# Separate treatment and control chips
+
+Logarithm? Log2, Log10
+
+1000 ---> 10
+
+Treatment <- apply(expression_values[,c("GSM4843.CEL", "GSM4844.CEL")], 1, log)
+
+Control <- apply(expression_values[,c("GSM4845.CEL", "GSM4846.CEL")], 1, log)
+
+# Get back the previous data shape using fucntion transpose
+
+Treatment <- t(Treatment)
+Control <- t(Control)
+
+# Average for treatment and control
+
+Treatment_Mean <- rowMeans(Treatment)
+Control_Mean <- rowMeans(Control)
+
+# Comparing treatment and control samples to check the up-regulated and down-regulated genes, Fold change analysis
+
+Fold_change <- Treatment_Mean-Control_Mean
+
+# Up-regulated fold change > +1.5
+# Down-regulated fold change <-1.5
+
+
+
+
+
+
+
+
+
 
 
 
