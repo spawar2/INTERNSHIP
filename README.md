@@ -13,3 +13,5 @@ Session 4 (Microarray data read and visualization in R): https://youtu.be/OhXCJ_
 Session 5 (Normalization, Github uploads): https://youtu.be/DKNva3GCWQ0
 
 Session 6 (Fold Change Analysis): https://youtu.be/QF_X2PqDO1k
+
+Session 7 (Project preparation): https://youtu.be/3f5wU8niK5c
