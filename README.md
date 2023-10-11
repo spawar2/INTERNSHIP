@@ -24,7 +24,7 @@ Session 9 (Project preparation): https://youtu.be/viKm2czflmY
 
 Session 10 (Project preparation): https://youtu.be/NaZl5zwMroc
 
-Session 11 (Project preparation): https://youtu.be/fBWLUOIJnow
+Session 11  (Project preparation): https://youtu.be/fBWLUOIJnow
 
 Session 12 (Project preparation): https://youtu.be/svZcYXwA8cU
 
