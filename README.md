@@ -39,3 +39,5 @@
 [Session 17 (Project preparation):](https://youtu.be/eayldhE1jRw)
 
 [Session 18 (Project preparation):](https://youtu.be/AdiMhOXXSHw)
+
+[Session 19 (Project preparation):](https://youtu.be/FKp9a0YSUyw)
