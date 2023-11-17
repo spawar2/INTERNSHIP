@@ -44,4 +44,4 @@
 
 [Session 20 (Project preparation):](https://youtu.be/pqSZEnwYLrw)
 
-[Session 21 (Project preparation):] (https://youtu.be/vyLSq2q6oi8)
+[Session 21 (Project preparation):](https://youtu.be/vyLSq2q6oi8)
