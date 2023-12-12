@@ -1,5 +1,5 @@
-# INTERNSHIP
-
+# INTERNSHIP Learning Objectives
+ 
 [INTERNSHIP](https://pawar1550.wixsite.com/claflin-courses/copy-of-csci-hnth-391-2)
 
 [Session 1 (R, data banks, GitHub Intro):](https://youtu.be/3ReIQmFWxas)
