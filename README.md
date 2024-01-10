@@ -1,6 +1,6 @@
 # INTERNSHIP Learning Objectives
  
-[INTERNSHIP](https://pawar1550.wixsite.com/claflin-courses/copy-of-csci-hnth-391-2)
+[INTERNSHIP 2023](https://pawar1550.wixsite.com/claflin-courses/copy-of-csci-hnth-391-2)
 
 [Session 1 (R, data banks, GitHub Intro):](https://youtu.be/3ReIQmFWxas)
 
@@ -45,3 +45,8 @@
 [Session 20 (Project preparation):](https://youtu.be/pqSZEnwYLrw)
 
 [Session 21 (Project preparation):](https://youtu.be/vyLSq2q6oi8)
+
+2024:
+[Session 1.1 (Project preparation):](https://youtu.be/M4YK6UbJR10)
+
+[Session 1.2 (Project preparation):](https://youtu.be/T6wQL4h5eEs)
