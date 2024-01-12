@@ -50,3 +50,7 @@
 [Session 1.1 (Project preparation):](https://youtu.be/M4YK6UbJR10)
 
 [Session 1.2 (Project preparation):](https://youtu.be/T6wQL4h5eEs)
+
+[Session 2.1 (Project preparation):](https://youtu.be/riK08jGANk4)
+
+[Session 2.2 (Project preparation):](https://youtu.be/8H9t8y1gBBs)
