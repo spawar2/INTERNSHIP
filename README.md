@@ -54,3 +54,7 @@
 [Session 2.1 (Project preparation):](https://youtu.be/riK08jGANk4)
 
 [Session 2.2 (Project preparation):](https://youtu.be/8H9t8y1gBBs)
+
+[Session 3.1 (Project preparation):](https://youtu.be/pBh-nsV1-_g)
+
+[Session 3.2 (Project preparation):](https://youtu.be/NybXXfLb20g)
