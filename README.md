@@ -47,14 +47,14 @@
 [Session 21 (Project preparation):](https://youtu.be/vyLSq2q6oi8)
 
 2024:
-[Session 1.1 (Project preparation):](https://youtu.be/M4YK6UbJR10)
+[Session 1.1 (Introduction to R: Simple manipulations; numbers and vectors, Missing values, Objects, their modes and attributes, Ordered and unordered factors, Arrays and matrices, Lists and data frames, Reading data from files, Probability distributions, Grouping, loops and conditional execution, Custom functions, Statistical models, Graphical procedures.):](https://youtu.be/M4YK6UbJR10)
 
-[Session 1.2 (Project preparation):](https://youtu.be/T6wQL4h5eEs)
+[Session 1.2 (Introduction to R: Simple manipulations; numbers and vectors, Missing values, Objects, their modes and attributes, Ordered and unordered factors, Arrays and matrices, Lists and data frames, Reading data from files, Probability distributions, Grouping, loops and conditional execution, Custom functions, Statistical models, Graphical procedures.):](https://youtu.be/T6wQL4h5eEs)
 
-[Session 2.1 (Project preparation):](https://youtu.be/riK08jGANk4)
+[Session 2.1 (Introduction to R: Simple manipulations; numbers and vectors, Missing values, Objects, their modes and attributes, Ordered and unordered factors, Arrays and matrices, Lists and data frames, Reading data from files, Probability distributions, Grouping, loops and conditional execution, Custom functions, Statistical models, Graphical procedures.):](https://youtu.be/riK08jGANk4)
 
-[Session 2.2 (Project preparation):](https://youtu.be/8H9t8y1gBBs)
+[Session 2.2 (Introduction to R: Simple manipulations; numbers and vectors, Missing values, Objects, their modes and attributes, Ordered and unordered factors, Arrays and matrices, Lists and data frames, Reading data from files, Probability distributions, Grouping, loops and conditional execution, Custom functions, Statistical models, Graphical procedures.):](https://youtu.be/8H9t8y1gBBs)
 
-[Session 3.1 (Project preparation):](https://youtu.be/pBh-nsV1-_g)
+[Session 3.1 (Introduction to R: Simple manipulations; numbers and vectors, Missing values, Objects, their modes and attributes, Ordered and unordered factors, Arrays and matrices, Lists and data frames, Reading data from files, Probability distributions, Grouping, loops and conditional execution, Custom functions, Statistical models, Graphical procedures.):](https://youtu.be/pBh-nsV1-_g)
 
-[Session 3.2 (Project preparation):](https://youtu.be/NybXXfLb20g)
+[Session 3.2 (Introduction to R: Simple manipulations; numbers and vectors, Missing values, Objects, their modes and attributes, Ordered and unordered factors, Arrays and matrices, Lists and data frames, Reading data from files, Probability distributions, Grouping, loops and conditional execution, Custom functions, Statistical models, Graphical procedures.):](https://youtu.be/NybXXfLb20g)
