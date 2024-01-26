@@ -58,3 +58,8 @@
 [Session 3.1 (Introduction to R: Simple manipulations; numbers and vectors, Missing values, Objects, their modes and attributes, Ordered and unordered factors, Arrays and matrices, Lists and data frames, Reading data from files, Probability distributions, Grouping, loops and conditional execution, Custom functions, Statistical models, Graphical procedures.):](https://youtu.be/pBh-nsV1-_g)
 
 [Session 3.2 (Introduction to R: Simple manipulations; numbers and vectors, Missing values, Objects, their modes and attributes, Ordered and unordered factors, Arrays and matrices, Lists and data frames, Reading data from files, Probability distributions, Grouping, loops and conditional execution, Custom functions, Statistical models, Graphical procedures.):](https://youtu.be/NybXXfLb20g)
+
+[Session 4 (Introduction to R: Simple manipulations; numbers and vectors, Missing values, Objects, their modes and attributes, Ordered and unordered factors, Arrays and matrices, Lists and data frames, Reading data from files, Probability distributions, Grouping, loops and conditional execution, Custom functions, Statistical models, Graphical procedures.):](https://youtu.be/NybXXfLb20g)
+
+[INTERNSHIP 4 (Introduction to R: Simple manipulations; numbers and vectors, Missing values, Objects, their modes and attributes, Ordered and unordered factors, Arrays and matrices, Lists and data frames, Reading data from files, Probability distributions, Grouping, loops and conditional execution, Custom functions, Statistical models, Graphical procedures.):]( https://youtu.be/x6vfIOzlj9s)
+
