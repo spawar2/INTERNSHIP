@@ -23,6 +23,17 @@ https://gist.github.com/seankross/a412dfbd88b3db70b74b
 
 # Read about correlation test?
 
+#Magnitude (-1 0 +1) and Direction (+/Direct or -/Inverse)
+
+# Read the file mtcars.csv in R
+# Setting the working directory
+# Terminal: ls, cd Desktop, ls, pwd
+setwd("/Users/pawar/Desktop")
+
+# Read the mtcars.csv file in R
+data <- read.csv("mtcars.csv", header=TRUE)
+
+
 
 
 
