@@ -33,6 +33,14 @@ setwd("/Users/pawar/Desktop")
 # Read the mtcars.csv file in R
 data <- read.csv("mtcars.csv", header=TRUE)
 
+# Apply correlation test
+result <- cor.test(data$mpg, data$wt)
+
+# In class assignment:
+# Want you to generate 3 correlation values: 
+# mpg vs hp; mpg vs drat; mpg vs qsec
+# Copy the three outputs, paste in your R document, save and upload file on your Git repo.
+
 
 
 
