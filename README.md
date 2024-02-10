@@ -1,4 +1,8 @@
-# INTERNSHIP Learning Objectives
+# INTERNSHIP Learning Objectives 
+This project in collaboration with Yash Singh, Sai and Mohit, Georgia Tech. Biomarker discovery in prostrate, lung and breast cancers (Spring 2024).
+https://github.com/yashsingh43
+https://github.com/AbhayR43
+https://github.com/Msai32005
  
 [INTERNSHIP 2023](https://pawar1550.wixsite.com/claflin-courses/copy-of-csci-hnth-391-2)
 
