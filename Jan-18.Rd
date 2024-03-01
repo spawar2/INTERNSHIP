@@ -41,6 +41,45 @@ result <- cor.test(data$mpg, data$wt)
 # mpg vs hp; mpg vs drat; mpg vs qsec
 # Copy the three outputs, paste in your R document, save and upload file on your Git repo.
 
+# What is export in R, and how to export data in CSV file
+write.csv(data, "export.csv")
+write.table(data, "export.txt")
+
+# Visualization in R
+Barplots, scatterplots, volcano plots, Venn diagrams,
+Pie charts, Density plots, Line plots.......
+
+Basic plot type is Bar plot?
+barplot(data$cyl, data$gear, xlab="cylinders", ylab="gears", main="Number of gears per cylinder", cex.lab=5)
+
+# Density plots in R?
+den <- density(data$mpg)
+plot(den, col = "blue")
+lines(density(data$hp),lwd = 2,col = "red")
+
+# Histogram plot in R?
+hist(data$mpg)
+lines(density(data$qsec),lwd = 2,col = "red")
+
+# Scatter plot in R?
+plot(data$wt, data$mpg, main="Scatterplot Example", xlab="Car Weight ", ylab="Miles Per Gallon ", pch=19)
+
+# T-test
+# Used to test the differences between "2 groups"
+
+# ANOVA test=Analysis of variance
+# Used to test the diferences between "more than 2 groups"
+
+# Hypothesis, and its types (Null & Alternate)
+
+
+
+
+
+
+
+
+
 
 
 
