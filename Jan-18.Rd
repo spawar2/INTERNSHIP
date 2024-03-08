@@ -64,8 +64,16 @@ lines(density(data$qsec),lwd = 2,col = "red")
 # Scatter plot in R?
 plot(data$wt, data$mpg, main="Scatterplot Example", xlab="Car Weight ", ylab="Miles Per Gallon ", pch=19)
 
+# Adding a best fit line
+data <- data.frame("y"=mtcars$mpg,"x"=mtcars$wt)
+fit <-  lm(data$y ~  data$x)
+fit_inverse <-  lm(data$y ~  I(1/data$x))
+plot(data$x,data$y,col = "blue",bty="l",pch=20,ylab = "",xlab="")
+lines(data$x,fitted(fit) ,type="l",lty = 29,col="blue") 
+
+
 # T-test
-# Used to test the differences between "2 groups"
+# Used to test the differences between "2 groups", P value < 0.05.
 
 # ANOVA test=Analysis of variance
 # Used to test the diferences between "more than 2 groups"
