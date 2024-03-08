@@ -3,6 +3,8 @@ This project in collaboration with Yash Singh, Sai and Mohit, Georgia Tech. Biom
 https://github.com/yashsingh43
 https://github.com/AbhayR43
 https://github.com/Msai32005
+https://github.com/rrchada
+https://github.com/arnavmadderla
  
 [INTERNSHIP 2023](https://pawar1550.wixsite.com/claflin-courses/copy-of-csci-hnth-391-2)
 
