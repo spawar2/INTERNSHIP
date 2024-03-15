@@ -71,14 +71,22 @@ fit_inverse <-  lm(data$y ~  I(1/data$x))
 plot(data$x,data$y,col = "blue",bty="l",pch=20,ylab = "",xlab="")
 lines(data$x,fitted(fit) ,type="l",lty = 29,col="blue") 
 
-
 # T-test
 # Used to test the differences between "2 groups", P value < 0.05.
+
+output <- t.test(data$mpg, data$disp)
 
 # ANOVA test=Analysis of variance
 # Used to test the diferences between "more than 2 groups"
 
 # Hypothesis, and its types (Null & Alternate)
+
+# Riya: Ovarian cancer microarray dataset, ~800-1000 samples. Normal ovarian tissue dataset (50-100)??
+# Arnav: Liver cancer microarray dataset, 500 samples. Normal liver tissue dataset (50-100)??
+
+
+
+
 
 
 
