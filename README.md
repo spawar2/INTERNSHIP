@@ -1,4 +1,4 @@
-# INTERNSHIP Learning Objectives 
+# INTERNSHIP Learning Objectives Internship Fall/Sum/Spring 2023-24 (4 students)
 This project in collaboration with Yash Singh, Sai and Mohit, Georgia Tech. Biomarker discovery in prostrate, lung and breast cancers (Spring 2024).
 https://github.com/yashsingh43
 https://github.com/AbhayR43
