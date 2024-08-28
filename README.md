@@ -12,7 +12,7 @@ https://github.com/arnavmadderla
 <img width="704" alt="Poster" src="https://github.com/spawar2/INTERNSHIP/assets/25118302/9ab1f3e2-5baf-4689-a0b7-9f47538c6aed">
 2024 Southeast Regional Clinical & Translational Science Conference, Atlanta, Identifying Diagnostic & Prognostic Biomarker Signatures in Lung Cancer, Yash Singh, Abhay Raheja, Mohit Sai, Karuna Mittal, & Shrikant Pawar. https://georgiactsa.org/_includes/documents/sections/research/cmdts/2024-abstract-book-final-pw.pdf https://georgiactsa.org/research/cmdts/statewide-conference/2024.html
  
-[INTERNSHIP 2023](https://pawar1550.wixsite.com/claflin-courses/copy-of-csci-hnth-391-2)
+[INTERNSHIP 2023.](https://pawar1550.wixsite.com/claflin-courses/copy-of-csci-hnth-391-2)
 
 [Session 1 (R, data banks, GitHub Intro):](https://youtu.be/3ReIQmFWxas)
 
