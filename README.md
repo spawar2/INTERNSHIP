@@ -5,7 +5,7 @@ https://github.com/AbhayR43
 https://github.com/Msai32005
 https://github.com/rrchada
 https://github.com/arnavmadderla
-selected function(getGEO, normalize.quantiles, merge, cluster_analysis, hclust, Kmeans, mas5, rowMeans, randomForest, survfit, chisq.test, pData, rep, colnames, factor, eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table, BGmix, ccParams, TailPP, ccTrace, histTailPP, FDRplotTailPP, histccPred, plotFDR, plotPredChecks, exprSet)
+selected function(getGEO, normalize.quantiles, merge, cluster_analysis, hclust, Kmeans, mas5, rowMeans, randomForest, survfit, chisq.test, pData, rep, colnames, factor, eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table, BGmix, ccParams, TailPP, ccTrace, histTailPP, FDRplotTailPP, histccPred, plotFDR, plotPredChecks, exprSet).
 
 <img width="354" alt="Gtech" src="https://github.com/spawar2/INTERNSHIP/assets/25118302/578b146a-da41-49aa-b262-ffc73d7323a1">
 
