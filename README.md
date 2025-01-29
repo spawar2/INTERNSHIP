@@ -10,7 +10,7 @@ Date created/updated: December, 9, 2024.
 <img width="354" alt="Gtech" src="https://github.com/spawar2/INTERNSHIP/assets/25118302/578b146a-da41-49aa-b262-ffc73d7323a1">
 
 
-<img width="704" alt="Poster" src="https://github.com/spawar2/INTERNSHIP/assets/25118302/9ab1f3e2-5baf-4689-a0b7-9f47538c6aed">
+<img width="704" alt="Poster Presentation" src="https://github.com/spawar2/INTERNSHIP/assets/25118302/9ab1f3e2-5baf-4689-a0b7-9f47538c6aed">
 2 February, 2024 Southeast Regional Clinical & Translational Science Conference, Atlanta, United States of America (USA). Identifying Diagnostic & Prognostic Biomarker Signatures in Lung Cancer, Yash Singh, Abhay Raheja, Mohit Sai, Karuna Mittal, & Shrikant Pawar. https://georgiactsa.org/_includes/documents/sections/research/cmdts/2024-abstract-book-final-pw.pdf https://georgiactsa.org/research/cmdts/statewide-conference/2024.html
 Georgia Research Consulting (GRC), Research & Training in science, technology, engineering and mathematics (STEM) Studies, Atlanta, USA,  https://www.saashub.com/georgia-research-consulting-grc-llc-alternatives https://www.f6s.com/profile/5298554 https://www.crunchbase.com/organization/georgia-research-consulting-grc-llc https://aws.amazon.com/marketplace/seller-profile?id=seller-b6otd3wry7lkk https://www.sideprojectors.com/project/41226/chestai https://www.saashub.com/chestai-alternatives
  
